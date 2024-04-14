@@ -1,7 +1,8 @@
+Which cars I can by for 10000$?
 Car Names:
 - Tesla
-- Audi
-- Toyota
-- Opel
-- Infinity
-- Ford
+- Audi✅
+- Toyota✅
+- Opel✅
+- Infinity✅
+- Ford✅
